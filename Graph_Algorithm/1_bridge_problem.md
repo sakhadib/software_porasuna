@@ -1,9 +1,6 @@
-# কনিসবার্গের সেতু সমস্যা
-
-# কনিসবার্গের ভয়ানক সেতু সমস্যা
-
-Tags: Algorithm, graph
-Date: July 16, 2023
+>[Adib Sakhawat](https://sakhawatadib.com)<br>
+>Tags: Algorithm, graph<br>
+>Date: July 16, 2023
 
 কনিসবার্গ শহরের ঠিক মাঝখান দিয়ে একটা নদী যায়। নাম তার প্রেগেল। নদীটা যদি শুধুই, 
 
