@@ -9,3 +9,4 @@
   * [গ্রাফের মাথা মুণ্ডু](/Graph_Algorithm/3_graph_components.md)
   * [গ্রাফের মাথা মুণ্ডু - ২](/Graph_Algorithm/4_graph_components_2.md)
   * [বিশেষ ধরনের গ্রাফ](/Graph_Algorithm/5_graph_types.md)
+  * [অ্যাডজাসেন্সি ম্যাট্রিক্স](/Graph_Algorithm/6._Adjecency_matrix.md)
