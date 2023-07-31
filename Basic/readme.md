@@ -6,8 +6,8 @@
 > আপাতত সমাধান যুক্ত করা হল না। দ্রুতই সমাধান যুক্ত করা হবে।
 
 ## Level 1 - Easy:
-1. Hello, World! - Print "Hello, World!" to the console.
-2. Sum of Two Numbers - Add two numbers and print the result.
+1. কনসোল এ হ্যালো ওয়ার্ল্ড প্রিন্ট কর [solution](1.md)
+2. দুটি নাম্বার এর যোগ. [solution](2.md)
 3. Even or Odd - Determine if a number is even or odd.
 4. Area of a Rectangle - Calculate and print the area of a rectangle.
 5. Simple Calculator - Implement a basic calculator for addition, subtraction, multiplication, and division.
