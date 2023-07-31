@@ -2,6 +2,9 @@
 
 * [প্রথম পাতা](README.md)
 * [বেসিক প্রোগ্রামিং](/Basic/readme.md)
+  * [প্রিন্ট করা](/Basic/1.md)
+  * [যোগ করা](/Basic/2.md)
+  * [জোড় নাকি বিজোড়](/Basic/3.md)
 * [ডাটা স্ট্রাকচার](/Data_structure/README.md)
   * [অ্যারে বেসিক](/Data_structure/1._Array.md)
 * [গ্রাফ এলগোরিদম](/Graph_Algorithm/README.md)

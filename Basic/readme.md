@@ -8,7 +8,7 @@
 ## Level 1 - Easy:
 1. কনসোল এ হ্যালো ওয়ার্ল্ড প্রিন্ট কর [solution](1.md)
 2. দুটি নাম্বার এর যোগ. [solution](2.md)
-3. Even or Odd - Determine if a number is even or odd.
+3. একটা সংখ্যা জোড় না বিজোড় তা নির্ণয় কর. [solution](3.md)
 4. Area of a Rectangle - Calculate and print the area of a rectangle.
 5. Simple Calculator - Implement a basic calculator for addition, subtraction, multiplication, and division.
 6. Swap Two Numbers - Swap the values of two variables without using a temporary variable.
