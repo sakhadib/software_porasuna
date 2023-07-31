@@ -9,8 +9,8 @@
 1. কনসোল এ হ্যালো ওয়ার্ল্ড প্রিন্ট কর [solution](1.md)
 2. দুটি নাম্বার এর যোগ. [solution](2.md)
 3. একটা সংখ্যা জোড় না বিজোড় তা নির্ণয় কর. [solution](3.md)
-4. Area of a Rectangle - Calculate and print the area of a rectangle.
-5. Simple Calculator - Implement a basic calculator for addition, subtraction, multiplication, and division.
+4. আয়তক্ষেত্রের আয়তন.[solution](4.md)
+5. যোগ বিয়োগ গুন ভাগ করা যায় এমন একটা ক্যালকুলেটর তৈরি কর [solution](5.md) 
 6. Swap Two Numbers - Swap the values of two variables without using a temporary variable.
 7. Celsius to Fahrenheit Conversion - Convert a temperature in Celsius to Fahrenheit.
 8. Find the Largest Number - Find the largest among three given numbers.

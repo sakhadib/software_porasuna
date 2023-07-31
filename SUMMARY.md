@@ -5,6 +5,8 @@
   * [প্রিন্ট করা](/Basic/1.md)
   * [যোগ করা](/Basic/2.md)
   * [জোড় নাকি বিজোড়](/Basic/3.md)
+  * [আয়তক্ষেত্রের ক্ষেত্রফল](/Basic/4.md)
+  * [ক্যালকুলেটর](/Basic/5.md)
 * [ডাটা স্ট্রাকচার](/Data_structure/README.md)
   * [অ্যারে বেসিক](/Data_structure/1._Array.md)
 * [গ্রাফ এলগোরিদম](/Graph_Algorithm/README.md)
