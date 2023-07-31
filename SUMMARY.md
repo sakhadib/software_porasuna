@@ -1,7 +1,7 @@
 # Table of contents
 
 * [প্রথম পাতা](README.md)
-* [বেসিক প্রোগ্রামিং](/Basic/)
+* [বেসিক প্রোগ্রামিং](/Basic/readme.md)
 * [ডাটা স্ট্রাকচার](/Data_structure/README.md)
   * [অ্যারে বেসিক](/Data_structure/1._Array.md)
 * [গ্রাফ এলগোরিদম](/Graph_Algorithm/README.md)
