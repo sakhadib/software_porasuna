@@ -9,6 +9,7 @@
   * [ক্যালকুলেটর](/Basic/5.md)
 * [ডাটা স্ট্রাকচার](/Data_structure/README.md)
   * [অ্যারে বেসিক](/Data_structure/1._Array.md)
+  * [লিংক লিস্টের গল্প - ১](/Data_structure/linked_list.md)
 * [Object Oriented Programming](/OOP-2/readme.md)
   * [Scope of Object](/OOP-2/soo1.md)
 * [গ্রাফ এলগোরিদম](/Graph_Algorithm/README.md)
